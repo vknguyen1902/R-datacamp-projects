@@ -9,7 +9,11 @@ This repo includes completed projects from DataCamp.com using R language to cond
    
 # 2. Kaggle Data Science Survey
    
-   In Progress
+   Data Analysis with Tidyverse packages
+   
+   Data Manipulation with dplyr
+   
+   Data Visualization with ggplot2
    
 # 3. Musical Data Project
    
