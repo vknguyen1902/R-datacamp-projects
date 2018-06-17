@@ -1,19 +1,15 @@
 # DataCamp Projects
-This repo includes completed projects from DataCamp.com using R language to conduct data manipulation, data visualization, and data analysis for variety of datasets. Below is the list of projects with a brief description for each in chronological order.
+This repo includes completed projects from DataCamp.com using R language to conduct data manipulation, data visualization, and data analysis for variety of datasets. Below is the list of projects in chronological order with a brief description for each.
 
 # 1. Discovery of Handwashing Project
    
-   Data Manipulation with dplyr
-   
-   Data Visualization with ggplot2
+   We look at the story of how a physician in the early 1800s had discovered the life-saving habit of handwashing in medical practice
+   Tasks: Data Manipulation with dplyr and Data Visualization with ggplot2
    
 # 2. Kaggle Data Science Survey
    
-   Data Analysis with Tidyverse packages
-   
-   Data Manipulation with dplyr
-   
-   Data Visualization with ggplot2
+   From a survey taken by Kagglers in 2017, let's find what programming languages are prominent in one of our largest data science community. Python or R?
+   Tasks: Data Analysis with Tidyverse packages, Data Manipulation with dplyr, and Data Visualization with ggplot2
    
 # 3. Musical Data Project
    
