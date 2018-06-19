@@ -15,8 +15,16 @@ This repo includes completed projects from DataCamp.com using R language to cond
    
 ## 3. Musical Data Project
    
-   In Progress
+   In Progress 
    
 ## 4. Candy Crush Saga Difficulty Level
 
    In progress
+   
+## 5. Drawing Flowers
+
+   Coming Soon
+   
+## 6. Bad Passwords Data
+
+   Coming Soon
