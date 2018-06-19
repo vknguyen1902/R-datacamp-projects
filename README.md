@@ -17,6 +17,8 @@ This repo includes completed projects from DataCamp.com using R language to cond
    
    In Progress 
    
+   Task: Data Wrangling and Data Visualization
+   
 ## 4. Candy Crush Saga Difficulty Level
 
    In progress
