@@ -1,5 +1,5 @@
 # DataCamp Projects
-This repo includes completed projects from DataCamp.com using R language to conduct data manipulation, data visualization, and data analysis for variety of datasets. Below is the list of projects in chronological order with a brief description for each.
+This repo includes completed projects from DataCamp.com using R to conduct data manipulation, data visualization, and data analysis for variety of datasets. These are guided projects where I apply skills I learn from DataCamp courses and it has been a great way to consolidate my learning. Below is the list of projects in chronological order with a brief description for each.
 
 ## 1. Discovery of Handwashing Project
    
