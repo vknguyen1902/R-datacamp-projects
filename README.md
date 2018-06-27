@@ -13,20 +13,22 @@ This repo includes completed projects from DataCamp.com using R to conduct data 
    
    Tasks: Data Analysis with Tidyverse packages, Data Manipulation with dplyr, and Data Visualization with ggplot2
    
-## 3. Musical Data Project
+## 3. A Visual History of Nobel Prize Winners
    
    In Progress 
    
    Task: Data Wrangling and Data Visualization
    
-## 4. Candy Crush Saga Difficulty Level
+## 4. Musical Data Project
 
    In progress
    
-## 5. Drawing Flowers
+## 5. Candy Crush Saga Difficulty Level
 
    Coming Soon
    
-## 6. Bad Passwords Data
+## 6. Drawing Flowers
 
    Coming Soon
+   
+## 7. Bad Passwords Data
